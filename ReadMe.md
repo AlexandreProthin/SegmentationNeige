@@ -8,7 +8,7 @@
 
 ​	La connaissance des conditions climatiques en montagne est essentielle mais parfois difficile d’accès. Le but de cette étude est de mettre en place des  méthodes de vision par ordinateur spécialisées pour la tâche de segmentation de la neige. Cela va en effet permettre de valoriser les images issues de webcams déjà présentent dans certains massifs montagneux. On va évaluer aussi bien des méthodes supervisées et non-supervisées telles que le seuillage, le k-means et d’autres. Des résultats sur la classification via différentes méthodes seront aussi présentés. En parallèle de cela, les performances seront constamment évaluées via des métriques usuelles pour rester objectif sur les conclusions apportées. Finalement, au terme de cette étude, on sera en mesure de choisir la méthode de segmentation la plus adéquate pour le cas spécifique de la segmentation de la neige à partir d’images de webcams.
 
-​	Cette étude s'est faite dans le cadre d'un stage de 4ème année de formation ingénieur. Réalisé au sein du laboratoire de recherche [LISTIC ](https://www.univ-smb.fr/listic/) et avec les données du [CREA Mont Blanc](https://www.univ-smb.fr/listic/https://creamontblanc.org/fr/).
+​	Cette étude s'est faite dans le cadre d'un stage de 4ème année de formation ingénieur. Réalisé au sein du laboratoire de recherche [LISTIC ](https://www.univ-smb.fr/listic/) et avec les données du [CREA Mont Blanc](https://creamontblanc.org/fr/).
 
 ## 2. Présentation
 
