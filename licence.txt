@@ -1,0 +1,8 @@
+__author__ = "Alexandre Prothin"
+__copyright__ = "Copyright (c) 2022 Université Savoie Mont-Blanc"
+__credits__ = ["Alexandre Prothin", "Matthieu Gallet"]
+__license__ = "GPL"
+__version__ = "1.0"
+__maintainer__ = "Alexandre Prothin"
+__email__ = "alexandre.prothin@etu.univ-smb.fr"
+__status__ = "Production"
